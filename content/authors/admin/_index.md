@@ -14,7 +14,8 @@ role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University and    Bristol-Myers Squibb
+- name: Stanford University and
+Bristol-Myers Squibb
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
