@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include advanced analytics methods in clinical drug development.
 
 interests:
-- Data Science, Decision Analysis, and Biometrics
-- Immuno-oncology clinical drug development 
+- Data Science
+- Decision Analysis
+- Clinical drug development 
 - Pediatric vaccines
 
 education:
