@@ -24,7 +24,6 @@ interests:
 - Data Science
 - Decision Analysis
 - Clinical drug development 
-- Pediatric vaccines
 
 education:
   courses:
