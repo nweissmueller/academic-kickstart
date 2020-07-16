@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikolas Weissmueller
+title: Nikolas T. Weissmueller
 
 # Username (this should match the folder name)
 authors:
