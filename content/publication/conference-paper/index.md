@@ -6,7 +6,7 @@ authors:
 - Amanda Hurley
 - Robert K. Prud'homme
 date: "2016-10-16T00:00:00Z"
-doi: "10.1021/acs.biomac.6b01440"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -65,13 +65,4 @@ image:
 # slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
