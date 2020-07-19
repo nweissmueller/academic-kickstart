@@ -20,8 +20,8 @@
 
 [[main]]
   name = "Publications"
-  url = "#pages"
-  weight = 40
+  url = "#pages/publications"
+  weight = 30
 
 [[main]]
   name = "Contact"
