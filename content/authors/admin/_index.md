@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include advanced analytics methods in support of immuno-oncology drug development. Specifically, I develop tools that help decision makers achieve clarity of action by quantifying value trade-offs. These tools leverage novel sources of data together with conventional clinical trial data, and utilize statistical learning techniques together with classical decision analysis. I believe that analytics will be a key differentiating factor for speeding efficacious medicines to patients. 
+My work focuses on advanced analytics methods in support of immuno-oncology drug development. Specifically, I develop tools that help decision makers achieve clarity of action by quantifying value trade-offs. These tools leverage novel sources of data together with conventional clinical trial data, and utilize statistical learning techniques together with classical decision analysis. I believe that analytics will be a key differentiating factor for speeding efficacious medicines to patients. 
