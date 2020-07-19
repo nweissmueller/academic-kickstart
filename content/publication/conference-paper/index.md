@@ -31,21 +31,21 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: https://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b01440
+# - name: Custom Link
+#  url: https://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b01440
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.biomac.6b01440
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `ACS_zein.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Flash-Nanoprecipitation of Zein'
   focal_point: ""
   preview_only: false
 
