@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Nanocarriers from GRAS Zein Proteins to Encapsulate Hydrophobic Actives"
 authors:
 - admin
 - Hoang D. Lu
