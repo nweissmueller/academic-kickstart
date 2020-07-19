@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Biomakromolecules*
+publication_short: In *ACS*
 
 abstract: One factor limiting the expansion of nanomedicines has been the high cost of the materials and processes required for their production. We present a continuous, scalable, low cost nanoencapsulation process, Flash Nanoprecipitation (FNP) that enables the production of nanocarriers (NCs) with a narrow size distribution using zein corn proteins. 
 
@@ -28,7 +28,7 @@ summary: We present a continuous, scalable, low cost nanoencapsulation process, 
 
 tags:
 - Source Themes
-featured: true
+featured: false 
 
 links:
 # - name: Custom Link
@@ -43,7 +43,7 @@ url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.biomac.6b01440
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `ACS_zein.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Flash-Nanoprecipitation of Zein'
   focal_point: ""
