@@ -1,12 +1,13 @@
 ---
-title: "An example journal article"
+title: "Intradermal powder immunization with protein-containing vaccines"
 authors:
 - admin
-- Robert Ford
+- Heiko A. Schiffter
+- Andrew J. Pollard 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2013-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Expert Review Vaccines"
 publication_short: ""
 
 abstract: The central importance for global public health policy of delivering life-saving vaccines for all children makes the development of efficacious and safe needle-free alternatives to hypodermic needles, preferably in a thermostable form, a matter of pressing urgency. This paper comprehensively reviews past in vivo studies on intradermal powder immunization with vaccine formulations that do not require refrigeration.
