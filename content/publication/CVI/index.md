@@ -1,12 +1,18 @@
 ---
-title: "An example journal article"
+title: "Needle-Free Dermal Delivery of a Diphtheria Toxin CRM197 Mutant on Potassium-Doped Hydroxyapatite Microparticles"
 authors:
 - admin
-- Robert Ford
+- Heiko A. Schiffter
+- Robert C. Carlise
+- Christine S. Rollier
+- Andrew J. Pollard
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +25,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Clincial and Vaccine Immunology"
+publication_short: "CVI"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: While a plethora of needle-free injection devices exist, vaccine reformulation is costly and presents a barrier to their widespread clinical application. To provide a simple, needle-free, and broad-spectrum protein antigen delivery platform, we developed novel potassium-doped hydroxyapatite (K-Hap) microparticles with improved protein loading capabilities that can provide sustained local antigen presentation and release.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: To provide a simple, needle-free, and broad-spectrum protein antigen delivery platform, we developed novel potassium-doped hydroxyapatite (K-Hap) microparticles with improved protein loading capabilities that can provide sustained local antigen presentation and release.
 
 tags:
 - Source Themes
@@ -34,19 +40,19 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://cvi.asm.org/content/22/5/586.short
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Injected vaccine micro particles'
   focal_point: ""
   preview_only: false
 
@@ -65,12 +71,3 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
