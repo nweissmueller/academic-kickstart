@@ -2,11 +2,13 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Heiko A. Schiffter
+- Andrew J. Pollard
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Equal contribution"
+date: "2013-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
