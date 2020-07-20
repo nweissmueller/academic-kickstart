@@ -1,12 +1,16 @@
 ---
-title: "An example journal article"
+title: "Molten salt synthesis of potassium-containing hydroxyapatite microparticles used as protein substrate"
 authors:
 - admin
-- Robert Ford
+- Heiko A. Schiffter
+- Andrew J. Pollard
+- A. Cuneyt Tas
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+date: "2014-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Materials Letters*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The bioactivity of a material may be favorably altered by exerting control over its protein sorption propensity. Spheroidal potassium-containing calcium phosphate bioceramic microparticles were manufactured by molten salt synthesis. The effects on particle characteristics and adsorption of bovine serum albumin (BSA) of different hydroxyapatite (HA, Ca10(PO4)6(OH)2) to salt flux (K2SO4) ratios were investigated. X-ray diffraction (XRD) patterns showed the emergence of minor phases in addition to the HA major phase with increased salt flux. Synthesized particles were found to increase in potassium content with increasing HA:K2SO4 ratio. Conversely, the amount of BSA adsorption onto microparticles, normalized for surface area, decreased with excess K2SO4. The results indicate that K2SO4 content can impact the morphology, composition, and BSA adsorption propensity of the resultant bioceramic microparticles.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Spheroidal potassium-containing calcium phosphate bioceramic microparticles were manufactured by molten salt synthesis. The effects on particle characteristics and adsorption of bovine serum albumin (BSA) of different hydroxyapatite (HA, Ca10(PO4)6(OH)2) to salt flux (K2SO4) ratios were investigated.
 
 tags:
 - Source Themes
@@ -34,19 +38,19 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167577X14007319
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Hydroxyapatite micro particles'
   focal_point: ""
   preview_only: false
 
@@ -65,12 +69,3 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
