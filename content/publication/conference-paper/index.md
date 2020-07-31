@@ -22,9 +22,11 @@ publication: In *ACS Biomakromolecules*
 publication_short: In *ACS*
 
 abstract: One factor limiting the expansion of nanomedicines has been the high cost of the materials and processes required for their production. We present a continuous, scalable, low cost nanoencapsulation process, Flash Nanoprecipitation (FNP) that enables the production of nanocarriers (NCs) with a narrow size distribution using zein corn proteins. 
+{{% staticref "files/acs_2016_frontpage.pdf" "newtab" %}}Check out the first page{{% /staticref %}}
 
 # Summary. An optional shortened abstract.
 summary: We present a continuous, scalable, low cost nanoencapsulation process, Flash Nanoprecipitation (FNP) that enables the production of nanocarriers (NCs) with a narrow size distribution using zein corn proteins.
+
 
 tags:
 - Source Themes
