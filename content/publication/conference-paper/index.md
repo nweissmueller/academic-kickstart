@@ -26,18 +26,9 @@ been the high cost of the materials and processes required for their
 production. We present a continuous, scalable, low cost nano-
 encapsulation process, Flash Nanoprecipitation (FNP) that enables the
 production of nanocarriers (NCs) with a narrow size distribution using
-zein corn proteins. Zein is a low cost, GRAS protein (having the FDA
-status of “Generally Regarded as Safe”) currently used in food
-applications, which acts as an effective encapsulant for hydrophobic
-compounds using FNP. The four-stream FNP configuration allows the
-encapsulation of very hydrophobic compounds in a way that is not
-possible with previous precipitation processes. We present the
-encapsulation of several model active compounds with as high as 45 wt
-% drug loading with respect to zein concentration into ∼100 nm
-nanocarriers. Three examples are presented: (1) the pro-drug antioxidant,
-vitamin E-acetate, (2) an anticholera quorum-sensing modulator CAI-1 ((S)-3-hydroxytridecan-4-one; CAI-1 that reduces Vibrio cholerae virulence by modulating cellular communication), and (3) hydrophobic fluorescent dyes with a range of hydrophobicities. The specific interaction between zein and the milk protein, sodium caseinate, provides stabilization of the NCs in PBS, LB medium, and in pH 2 solutions. The stability and size changes in the three media provide information on the mechanism of assembly of the zein/active/casein NC. 
+zein corn proteins.  
 
-{{% staticref "files/acs_2016_front_page.pdf" "newtab" %}}Preview the first page here. {{% /staticref %}}  
+# {{% staticref "files/acs_2016_front_page.pdf" "newtab" %}}Preview the first page here. {{% /staticref %}}  
 
 # Summary. An optional shortened abstract.
 summary: We present a continuous, scalable, low cost nanoencapsulation process, Flash Nanoprecipitation (FNP) that enables the production of nanocarriers (NCs) with a narrow size distribution using zein corn proteins.
