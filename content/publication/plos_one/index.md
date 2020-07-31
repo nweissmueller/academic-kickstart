@@ -7,13 +7,7 @@ authors:
 - Robert C. Carlisle
 - Christine S. Rollier
 - Andrew J. Pollard
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2017-08-24T00:00:00Z"
 doi: ""
 
