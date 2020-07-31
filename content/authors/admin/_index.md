@@ -24,6 +24,8 @@ interests:
 - Data Science
 - Decision Analysis
 - Clinical drug development 
+- R / Python
+
 
 education:
   courses:
