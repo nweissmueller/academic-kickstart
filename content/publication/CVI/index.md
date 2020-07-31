@@ -6,12 +6,7 @@ authors:
 - Robert C. Carlise
 - Christine S. Rollier
 - Andrew J. Pollard
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2015-05-01T00:00:00Z"
 doi: ""
 

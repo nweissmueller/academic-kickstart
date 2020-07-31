@@ -5,11 +5,7 @@ authors:
 - Heiko A. Schiffter
 - Andrew J. Pollard
 - A. Cuneyt Tas
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2014-08-01T00:00:00Z"
 doi: ""
 

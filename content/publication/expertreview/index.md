@@ -4,10 +4,7 @@ authors:
 - admin
 - Heiko A. Schiffter
 - Andrew J. Pollard
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2013-06-12T00:00:00Z"
 doi: ""
 
