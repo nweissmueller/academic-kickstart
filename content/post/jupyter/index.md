@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 
-
+Here is the full article. It includes our approach and code: https://rpubs.com/nweissm/670674 
 
 ---
 
