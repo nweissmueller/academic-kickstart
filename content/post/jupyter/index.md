@@ -1,7 +1,7 @@
 ---
-title: "Display Jupyter Notebooks with academia"
-subtitle: Learn how to blog in academia using Jupyter notebooks
-summary: Learn how to blog in academia using Jupyter notebooks
+title: "Winning Kaggle Solution"
+subtitle: : Predicting property sales prices
+summary: Learn how we won a Kaggle competition using R
 authors:
 - admin
 tags: []
