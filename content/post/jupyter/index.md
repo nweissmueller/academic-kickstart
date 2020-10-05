@@ -1,6 +1,6 @@
 ---
 title: "Winning Kaggle Solution"
-subtitle: : Predicting property sales prices
+subtitle: Predicting property sales prices
 summary: Learn how we won a Kaggle competition using R
 authors:
 - admin
