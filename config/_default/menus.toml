@@ -13,10 +13,10 @@
 #  url = "#pages"
 #  weight = 20
 
-# [[main]]
-#  name = "Projects"
-#  url = "#portfolio"
-#  weight = 30
+[[main]]
+name = "Projects"
+url = "#portfolio"
+weight = 20
 
 [[main]]
   name = "Publications"
