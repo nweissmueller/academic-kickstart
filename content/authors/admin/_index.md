@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include advanced analytics methods in clinical drug development.
+About: My research interests include advanced analytics methods in clinical drug development.
 
 interests:
 - Data Science
