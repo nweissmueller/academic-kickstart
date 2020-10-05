@@ -20,5 +20,5 @@ image:
 
 ---
 
-Here is the full article. It includes our approach and code: https://rpubs.com/nweissm/670674 
+My team and I were fortunate to win the Kaggle competition hosted by Stanford University’s Data Mining course in 2019. There were 430 submissions by 76 teams (135 competitors). We are sharing our approach and code in this [publication](https://rpubs.com/nweissm/670674).
 
